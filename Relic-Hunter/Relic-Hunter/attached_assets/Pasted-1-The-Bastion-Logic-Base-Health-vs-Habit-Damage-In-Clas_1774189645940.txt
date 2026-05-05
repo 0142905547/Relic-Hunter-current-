@@ -1,0 +1,30 @@
+1. The "Bastion" Logic (Base Health vs. Habit Damage)
+In Clash of Clans, other players raid you. In Relic Hunter, your Bad Habits raid you.
+The Logic: Your Village has a "Fortification" score based on your Tank (Endurance) stats.
+The Event: If you fail a "Hazard" (a daily habit like 'No Soda' or 'Sleep by 11 PM'), a Shadow Raid occurs.
+The Calculation: * If your Walls are high level, the raid is deflected (No Gold lost).
+If your Walls are low, the "Shadows" steal 10% of your banked Gold and "break" a building, pausing its passive production until you finish a "Repair Task."
+2. The "Monument" Logic (Relic Synergy)
+Relics shouldn't just sit in a bag; they should be the "Power Sources" for your buildings.
+The Logic: Each Class Building (Forge, Sanctum, etc.) has Relic Slots.
+The Interaction: * A Level 1 Forge has 1 slot. A Level 20 Forge has 5 slots.
+If you slot the Obsidian Blade into the Forge, the Forge glows red and produces 2x Gold.
+The "Discovery" Bonus: If you slot three Relics from the same "Set" (e.g., three Dragon-themed relics), you unlock a Hidden Skill Tree Branch that wasn't there before.
+3. The "Fog of War" Logic (Exploration via Effort)
+The map shouldn't be fully visible. You are a Hunter in a lost land.
+The Logic: The base starts as just the Town Hall in a small clearing. Everything else is "Darkness."
+The Clearing Mechanic: You don't buy land with money. You clear it with "Lantern Charges".
+How to get Charges: You earn 1 Charge for every "Elite" task (Deep Work) completed.
+The Reward: As you clear the Fog, you find Fixed Points of Interest (Pre-set ruins like an "Ancient Library" or "Cursed Well") that provide unique daily quests.
+4. The "Inhabitant" Logic (The Citizen System)
+Your base should feel populated by the "Souls" of your completed goals.
+The Logic: Every time you reach Level 10 in a Class (e.g., Level 10 Mage), a Class NPC moves into your village.
+The Librarian (Mage): Sells you "Scrolls" (One-time task boosters).
+The Blacksmith (Warrior): Allows you to "Reforge" Relics to change their stats.
+The Visual: If you are on a high streak, your village is full of NPCs walking around, music playing, and lights on. If you are slacking, the NPCs disappear, and the village looks like a ghost town.
+5. The "Time-Dilated" Construction (Focus-Sync)
+This links your real-world "Time" to the game's "Construction Time."
+The Logic: Building a "Level 10 Sanctum" takes 48 hours.
+The "Focus-Burn" Mechanic: If you start a Focus Timer (Pomodoro) in the app while a building is upgrading, the building finishes faster.
+The Ratio: For every 1 minute of real-world "Deep Work," 5 minutes of "Construction Time" are shaved off.
+The Result: You don't just wait for buildings to finish; you work them into existence.
